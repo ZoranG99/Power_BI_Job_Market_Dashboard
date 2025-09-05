@@ -1,8 +1,17 @@
 # Power BI Job Market Dashboard
 
-![Power BI Job Market Dashboard](/images/Power_BI_Job_Market_Dashboard.gif) 
+## Table of Contents
+- [Introduction](#introduction)  
+- [Skills Demonstrated](#skills-demonstrated)  
+- [Dashboard Overview](#dashboard-overview)  
+  - [Page 1: Market Summary](#page-1-market-summary)  
+  - [Page 2: Job Title Drill-Through](#page-2-job-title-drill-through)  
+- [Conclusion](#conclusion)  
+- [Dashboard File](#dashboard-file)  
 
 ## Introduction
+
+![Power BI Job Market Dashboard](/images/Power_BI_Job_Market_Dashboard.gif) 
 
 This dashboard was designed for **Job Seekers, Career Transitioners, and Professionals exploring new opportunities** to address a common challenge: information about the data job market is fragmented and difficult to analyze. 
 
